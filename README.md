@@ -1,6 +1,5 @@
 # Analog_Reflector Setup Notes
 
-> Personal setup reference for an existing DVSwitch / ASL3 node. This README records the configuration and fixes confirmed during setup. Replace every `XXXX` with the correct value for the node. Do not put real passwords or private keys in this file.
 
 ## What Analog_Reflector Does
 
